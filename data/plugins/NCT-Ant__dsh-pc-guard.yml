@@ -1,0 +1,6 @@
+url: https://github.com/NCT-Ant/dsh-pc-guard
+name: NCT-Ant/dsh-pc-guard
+category: tools
+description:
+  en: 'Locks the Windows workstation on request and reports total CPU load and user idle time. Locking keeps every background program running and never sleeps or shuts down the machine. The bundled WinForms panel shows live CPU usage and can suspend OCR or DSH processes above 90 percent CPU, then resume them below 40 percent.'
+  zh: '从 DSH 里一句话锁屏，后台程序全部保留、不休眠、不关机；同时可读整机 CPU 占用与空闲时长。附带小窗实时显示 CPU，超过 90% 时自动暂停 OCR 或 DSH 进程，降到 40% 以下再恢复。'
